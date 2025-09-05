@@ -1,4 +1,4 @@
-# Add Student Module - Manual Guide
+#**** Add Student Module - Manual Guide
 
 ## Overview
 This comprehensive manual guide provides step-by-step instructions for adding a new student to the Edwyze School Management System. The Add Student module is a 7-step process that captures all essential student information including personal details, contact information, guardian details, academic information, fees, transport, and documents.
@@ -9,7 +9,7 @@ This comprehensive manual guide provides step-by-step instructions for adding a 
 - Access to the Student Management module
 
 ## Login Process
-
+****
 ### Step 1: Access the System
 1. Open your web browser and navigate to: `https://edwyze.com/login`
 2. Enter your login credentials:
@@ -46,7 +46,8 @@ This comprehensive manual guide provides step-by-step instructions for adding a 
 - Date of Birth *
 - Gender *
 - Email Address *
-
+- Select Nationality 
+********
 **Optional Fields**:
 - Middle Name
 - Roll Number
