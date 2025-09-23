@@ -34,7 +34,7 @@ This comprehensive manual guide provides step-by-step instructions for adding a 
 1. On the Teacher Management page, click the "Add Member" button
 2. This will open the Add Teacher form
 
-![Teacher Management Page](.playwright-mcp/teacher-management-page.png)
+![Teacher Management Page](.playwright-mcp/step-9-form.png.png)
 
 ---
 
@@ -49,7 +49,10 @@ The Add Teacher form is a comprehensive single-page form that includes the follo
 4. **Contact Information**
 5. **Emergency Contact Information**
 
-![Add Teacher Initial Form](.playwright-mcp/add-teacher-initial-form.png)
+![Add Teacher Initial Form](.playwright-mcp/step-10-form.png.png)
+
+![Add Teacher Initial Form](.playwright-mcp/step-11-form.png.png)
+
 
 ### Step 1: Profile Image Upload (Optional)
 
@@ -166,7 +169,6 @@ The Add Teacher form is a comprehensive single-page form that includes the follo
 2. **Submit**: Click the "Submit" button to complete the teacher registration
 3. **Cancel**: Click "Cancel" to discard changes and return to the teachers list
 
-![Add Teacher Completed Form](.playwright-mcp/add-teacher-completed-form.png)
 
 ### Step 7: Confirmation
 
@@ -174,7 +176,7 @@ The Add Teacher form is a comprehensive single-page form that includes the follo
 - A success message: "Teacher added successfully"
 - The teacher will appear in the teachers list with all provided information
 
-![Add Teacher Success](.playwright-mcp/add-teacher-success.png)
+![Add Teacher Success](.playwright-mcp/step-12-form.png.png)
 
 ---
 
